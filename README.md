@@ -1,0 +1,2 @@
+# new.js
+js code
